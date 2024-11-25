@@ -92,7 +92,7 @@ header-includes:
 
 ## Wireshark
 
-![Wireshark](image/5.png){#fig:5 width=70%}
+![Wireshark IPv4](image/5.png){#fig:5 width=70%}
 
 ## Wireshark
 
@@ -110,6 +110,20 @@ header-includes:
 
 ![Транспортный уровень](image/9.png){#fig:9 width=70%}
 
+## Практическое применение UDP
+
+![Сервер](image/10.png){#fig:10 width=60%}
+
+## Практическое применение UDP
+
+![Клиент](image/11.png){#fig:11 width=50%}
+
+- FROM: ('::1', 49389, 0, 0) DATA: b'Hello UDP server'
+
+## Wireshark
+
+![Wireshark IPv6](image/12.png){#fig:12 width=70%}
+
 # Преимущества и недостатки UDP
 
 ## Преимущества UDP
@@ -125,7 +139,7 @@ header-includes:
 - Отсутствие надёжности
 - Отсутствие контроля ошибок
 - Отсутствие управления потоком
-- Уязвим для атак
+- Делает систему уязвимой к атакам
 - Ограниченная поддержка в некоторых сетях
 
 ## Заключение
