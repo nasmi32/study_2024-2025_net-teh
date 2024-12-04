@@ -55,7 +55,7 @@ header-includes:
 
 ## PC1
 
-![Настройка PC1](image/6.png){#fig:6 width=50%}
+![Настройка PC1](image/6.png){#fig:6 width=30%}
 
 ## PC1
 
@@ -67,7 +67,7 @@ header-includes:
 
 ## Журнал
 
-![Журнал работы DHCP-сервера](image/9.png){#fig:9 width=50%}
+![Журнал работы DHCP-сервера](image/9.png){#fig:9 width=30%}
 
 ## Wireshark
 
@@ -97,11 +97,11 @@ header-includes:
 
 ## Результат
 
-![Результат настройки DHCPv6 без отслеживания состояния](image/16.png){#fig:16 width=70%}
+![Результат настройки DHCPv6 без отслеживания состояния](image/16.png){#fig:16 width=30%}
 
 ## ifconfig
 
-![ifconfig нп PC2](image/17.png){#fig:17 width=70%}
+![ifconfig нп PC2](image/17.png){#fig:17 width=40%}
 
 ## Проверка
 
@@ -109,7 +109,7 @@ header-includes:
 
 ## Получение адреса
 
-![Получение адреса по DHCPv6. Пингование моршрутизатора](image/19.png){#fig:19 width=70%}
+![Получение адреса по DHCPv6. Пингование моршрутизатора](image/19.png){#fig:19 width=50%}
 
 ## Проверка
 
@@ -129,11 +129,11 @@ header-includes:
 
 ## Результат
 
-![Результат настройки DHCPv6 с отслеживания состояния](image/24.png){#fig:24 width=50%}
+![Результат настройки DHCPv6 с отслеживания состояния](image/24.png){#fig:24 width=45%}
 
 ## ifconfig
 
-![Команда ifconfig в терминале PC3](image/25.png){#fig:25 width=50%}
+![Команда ifconfig в терминале PC3](image/25.png){#fig:25 width=40%}
 
 ## Получение адреса
 
